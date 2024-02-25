@@ -1,0 +1,13 @@
+{
+   "TestCase_id":"3",
+   "Title":"Shipping cost should be calculated correctly":,
+   "Steps":
+   {
+      "1":"Go to any Category",
+      "2":"Add any item to the Cart",  
+      "3":"Go to the Cart",
+      "4":"Enter shipping address", 
+      "5":"Go to the Payment page"
+    },
+    "Expected result":"The total price should include the correct shipping cost"
+} 

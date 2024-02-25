@@ -1,0 +1,13 @@
+{
+   "TestCase_id":"4",
+   "Title":"Product availability should be updated in real-time":,
+   "Steps":
+   {
+      "1":"Go to any Category",
+      "2":"Select a product",  
+      "3":"Check the product availability status",
+      "4":"Wait for a few minutes", 
+      "5":"Refresh the page and check the product availability status again"
+    },
+    "Expected result":"The product availability status should be updated in real-time"
+} 

@@ -1,0 +1,13 @@
+{
+   "TestCase_id":"2",
+   "Title":"Discount should be applied correctly":,
+   "Steps":
+   {
+      "1":"Go to any Category",
+      "2":"Add any item to the Cart",  
+      "3":"Go to the Cart",
+      "4":"Apply a discount code", 
+      "5":"Go to the Payment page"
+    },
+    "Expected result":"The total price should reflect the discount applied"
+} 
